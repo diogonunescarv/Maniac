@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Jogador
+comment0.text=\r\n\ Define\ o\ jogador\ com\ nome\ e\ uma\ mochila\ que\ vai\ ser\ onde\ ele\ ir\u00E1\ carregar\ os\ objetos\ encontrados\ no\ decorrer\ do\ jogo.\r\n\ \r\n\ @author\ Maria\ Paula\ Zacaroni\ Silva\ \r\n\ @version\ 1.0\r\n
+comment1.params=nome
+comment1.target=Jogador(java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Jogador\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment2.text=\r\n\ Retorna\ o\ nome\ do\ jogador\r\n
+comment3.params=objeto
+comment3.target=boolean\ adcionarObjeto(Objeto)
+comment3.text=\r\n\ Se\ caso\ houver\ espa\u00E7o,\ adiciona\ um\ objeto\ a\ mochila\ do\ jogador\r\n
+comment4.params=nomeObjeto
+comment4.target=Objeto\ removerObjeto(java.lang.String)
+comment4.text=\r\n\ Remove\ um\ objeto\ da\ mochila\ do\ jogador\r\n
+comment5.params=
+comment5.target=java.lang.String\ itensMochila()
+comment5.text=\r\n\ Enumera\ os\ objetos\ presentes\ na\ mochila\ do\ jogador\r\n
+comment6.params=nomeObjeto
+comment6.target=boolean\ existeItem(java.lang.String)
+comment6.text=\r\n\ Verifica\ a\ existencia\ ou\ n\u00E3o\ de\ objetos\ da\ mochila\ do\ jogador\r\n
+comment7.params=
+comment7.target=int\ pesoAtual()
+comment7.text=\r\n\ Calcula\ o\ peso\ atual\ da\ mochila\ do\ jogador\r\n
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SalvarArquivo
+comment0.text=\r\n\ Classe\ utilizada\ para\ a\ realiza\u00E7\u00E3o\ da\ cria\u00E7\u00E3o\ e\ escrita\ de\ um\ arquivo\ .txt\ que\ apresenta\ informa\u00E7\u00F5es\ importantes.\r\n\ \r\n\ @Diogo\ Nunes\ Carvalho\ e\ Maria\ Paula\ Zacaroni\ Silva\r\n\ @1.0\r\n
+comment1.params=nome\ tempoJogado\ complemento
+comment1.target=void\ salvamentoArquivo(java.lang.String,\ long,\ java.lang.String)
+comment1.text=\r\n\ Escreve\ o\ tempo\ que\ os\ jogadores\ levaram\ para\ completar\ ou\ n\u00E3o\ o\ jogo\ em\ um\ arquivo\ .txt\r\n
+numComments=2
