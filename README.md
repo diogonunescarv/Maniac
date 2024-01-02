@@ -1,5 +1,3 @@
-<h1 align="center"> Maniac </h1>
-
 <p align="center">
   <img src="Maniac - versão final/Maniac2.2/Imagens/TelaAbertura.png" />
 </p>
